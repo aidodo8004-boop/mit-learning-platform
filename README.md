@@ -32,3 +32,15 @@ and track changes.# mit-learning-platform
 ### Practical Application to MIT
 I can use GitHub to record improvements to
 my software development projects and IT documentation.
+
+## Network Security Learning
+
+Topics I plan to study:
+- TLS and SSL
+- IPsec
+- SSH
+- Network access security
+- Wi-Fi security protocols
+
+My objective is to understand how organisations
+protect data and communications across networks.
