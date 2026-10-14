@@ -33,6 +33,11 @@ and track changes.# mit-learning-platform
 I can use GitHub to record improvements to
 my software development projects and IT documentation.
 
+- Wi-Fi security protocols
+
+My objective is to understand how organisations
+protect data and communications across networks.
+
 ## Network Security Learning
 
 Topics I plan to study:
@@ -40,7 +45,3 @@ Topics I plan to study:
 - IPsec
 - SSH
 - Network access security
-- Wi-Fi security protocols
-
-My objective is to understand how organisations
-protect data and communications across networks.
