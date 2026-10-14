@@ -19,3 +19,16 @@ and projects during my Master of Information Technology.
 ## Current Progress
 I am learning how to use GitHub to organise projects
 and track changes.# mit-learning-platform
+
+
+## Lesson 2: GitHub Change History
+
+### What I Have Learned
+- A repository stores project files and history.
+- A commit records changes to a project.
+- Commit messages explain what changed.
+- Change history helps track project development.
+
+### Practical Application to MIT
+I can use GitHub to record improvements to
+my software development projects and IT documentation.
